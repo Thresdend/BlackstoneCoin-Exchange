@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to BlackstoneCoin Exchange
 
-You can use the [editor on GitHub](https://github.com/Thresdend/BlackstoneCoin-Exchange/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+BlackstoneCoin is an ETH-backed cryptocurrency. It is an ERC-20 token that exists solely on the Ethereum network. Each BlackstoneCoin is redeemable for 0.01 ETH. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There are only 1 million BlackstoneCoins in existence. At the time of issue, all BlackstoneCoins were transferred to the BlackstoneCoin Instant Exchange. When the exchange sells out of coins, no further coins will be available from the exchange unless an individual user redeems his coins for ETH (and thereby allows the exchange to gain inventory again).
 
-### Markdown
+You can use the decentralized BlackstoneCoin Exchange to swap your ETH for BlackstoneCoin or your BlackstoneCoin for ETH. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Each transaction is handled entirely on the Ethereum network. Your ETH never comes into my possession at any point during the process.
 
-```markdown
-Syntax highlighted code block
+Keep in mind that each transaction does incur a gas fee. So you'll have to pay slightly more than 0.01 ETH for each coin you purchase. You'll also have to pay a gas fee each time you redeem BlackstoneCoin to get your ETH back.
 
-# Header 1
-## Header 2
-### Header 3
+This Dapp was created by Tom Blackstone using the Truffle Suite, React.js, and Web3.js. This is the first Dapp he has ever published. He used the Dapp University tutorial found [here](https://www.youtube.com/watch?v=sCE-fQJAVQ4) to learn how to build it.
 
-- Bulleted
-- List
+The smart contracts for this app have already been deployed. And since the blockchain is immutable, Tom Blackstone no longer has any control over the backend of this app. So use it at your own risk. 
 
-1. Numbered
-2. List
+Ropsten testnet version.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Thresdend/BlackstoneCoin-Exchange/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Mainnet version is coming soon!
