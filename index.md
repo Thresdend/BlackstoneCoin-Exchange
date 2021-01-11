@@ -2,7 +2,7 @@
 
 BlackstoneCoin is an ETH-backed cryptocurrency. It is an ERC-20 token that exists solely on the Ethereum network. Each BlackstoneCoin is redeemable for 0.01 ETH. 
 
-There are only 1 million BlackstoneCoins in existence. At the time of issue, all BlackstoneCoins were transferred to the BlackstoneCoin Instant Exchange. When the exchange sells out of coins, no further coins will be available from the exchange unless an individual user redeems his coins for ETH (and thereby allows the exchange to gain inventory again).
+There are only 1 million BlackstoneCoins in existence. At the time of issue, all BlackstoneCoins were transferred to the BlackstoneCoin Instant Exchange. When the exchange sells out of coins, no further coins will be available from the exchange - unless an individual user redeems his coins for ETH and thereby allows the exchange to gain inventory again.
 
 You can use the decentralized BlackstoneCoin Exchange to swap your ETH for BlackstoneCoin or your BlackstoneCoin for ETH. 
 
