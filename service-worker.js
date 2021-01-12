@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Thresdend/BlackstoneCoin-Exchange/precache-manifest.bef74a920713205443e72701d8b4ff6c.js"
+  "/BlackstoneCoin-Exchange/precache-manifest.9f80e7a45588a8df04260e5960ff2c98.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Thresdend/BlackstoneCoin-Exchange/index.html", {
+workbox.routing.registerNavigationRoute("/BlackstoneCoin-Exchange/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
